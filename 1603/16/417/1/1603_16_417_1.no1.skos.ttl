@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:417()>
     a skos:Collection ;
@@ -23,7 +22,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Issyk-Kul"@eng-Latn ,
         "Ысык-Көл"@kir-Zyyy ,
         "Иссык-Кульская"@rus-Cyrl ;
-    wdata:q7200235 "KG02000000000" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -54,7 +52,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Bishkek (city)"@eng-Latn ,
         "Бишкек ш."@kir-Zyyy ,
         "г.Бишкек"@rus-Cyrl ;
-    wdata:q7200235 "KG11000000000" ;
 .
 
 <urn:mdciii:1603:16:417:1:21000000000>
@@ -66,7 +63,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Osh (city)"@eng-Latn ,
         "Ош ш."@kir-Zyyy ,
         "г.Ош"@rus-Cyrl ;
-    wdata:q7200235 "KG21000000000" ;
 .
 
 <urn:mdciii:1603:16:417:1:3000000000>
@@ -78,7 +74,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Jalal-Abad"@eng-Latn ,
         "Жалалабат"@kir-Zyyy ,
         "Джалал-Абадская"@rus-Cyrl ;
-    wdata:q7200235 "KG03000000000" ;
 .
 
 <urn:mdciii:1603:16:417:1:4000000000>
@@ -90,7 +85,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Naryn"@eng-Latn ,
         "Нарын"@kir-Zyyy ,
         "Нарынская"@rus-Cyrl ;
-    wdata:q7200235 "KG04000000000" ;
 .
 
 <urn:mdciii:1603:16:417:1:5000000000>
@@ -102,7 +96,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Batken"@eng-Latn ,
         "Баткен"@kir-Zyyy ,
         "Баткенская"@rus-Cyrl ;
-    wdata:q7200235 "KG05000000000" ;
 .
 
 <urn:mdciii:1603:16:417:1:6000000000>
@@ -114,7 +107,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Osh"@eng-Latn ,
         "Ош"@kir-Zyyy ,
         "Ошская"@rus-Cyrl ;
-    wdata:q7200235 "KG06000000000" ;
 .
 
 <urn:mdciii:1603:16:417:1:7000000000>
@@ -126,7 +118,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Talas"@eng-Latn ,
         "Талас"@kir-Zyyy ,
         "Таласская"@rus-Cyrl ;
-    wdata:q7200235 "KG07000000000" ;
 .
 
 <urn:mdciii:1603:16:417:1:8000000000>
@@ -138,6 +129,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Chui"@eng-Latn ,
         "Чүй"@kir-Zyyy ,
         "Чуйская"@rus-Cyrl ;
-    wdata:q7200235 "KG08000000000" ;
 .
 
